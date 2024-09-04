@@ -1,7 +1,7 @@
 
-<!p align="center">
-  <!img width="300" height="250" src="https://github.com/felipeduplat/TeX-Repository/blob/main/img/001.png?raw=true">
-<!/p>
+<p align="center">
+  <!img width="300" height="250" src="https://github.com/felipeduplat/archives/blob/main/img/001.png?raw=true">
+</p>
 
 
 <!-- Título -->
