@@ -26,10 +26,6 @@ Arquivo .xlsx dedicado ao processo de deflacionamento de rendimentos para a PNAD
 
 Esse arquivo foi criado por [Fábio Fábio Monteiro Vaz](https://www.ipea.gov.br/portal/pesquisadores-ipea/582-fabio-monteiro-vaz), [Pedro H. G. Ferreira de Souza](https://www.ipea.gov.br/portal/central-de-conteudo-video/produtos-servicos-oculto-video/120-videos-disoc/6585-conheca-o-trabalho-dos-pesquisadores-do-ipea-pedro-ferreira-de-souza) e [Rafael Guerreiro Osório](https://www.ipea.gov.br/portal/pesquisadores-ipea/645-rafael-guerreiro-osorio?highlight=WyJtZXN0cmFkbyJd).
 
-#### Como usar:
-
-[texto].
-
 
 
 <!-- Bloco 02 - contribuições -->
