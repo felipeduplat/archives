@@ -1,11 +1,10 @@
 
 <p align="center">
-  <!img width="300" height="250" src="https://github.com/felipeduplat/archives/blob/main/img/001.png?raw=true">
+  <img src="https://github.com/felipeduplat/archives/blob/main/img/001.jpg" width="500">
 </p>
 
-
 <!-- Título -->
-# Archives
+# archives
 
 **Um repositório contendo arquivos auxiliares para manusear pesquisas amostrais e dados econômicos.**
 
@@ -14,7 +13,7 @@
 <!-- Descrição -->
 ## :loudspeaker: Descrição
 
-[texto].
+Um repositório com o objetivo de compartilhar arquivos que auxiliam na execução de tarefas relacionadas ao tratamento de dados econômicos, facilitando processos como conversões de moedas e deflacionamento, dentre outras atividades.
 
 
 
@@ -23,4 +22,17 @@
 
 ### :bar_chart: Conversor:
 
+Arquivo .xlsx dedicado ao processo de deflacionamento de rendimentos a partir do INPC e IPCA para a PNAD, PNADc, POF, PME, Censo Demográfico do Brasil; além de permitir a conversão e deflacionamento de quaisquer linhas de pobreza do Banco Mundial.
+
+#### Como usar:
+
 [texto].
+
+
+
+<!-- Bloco 02 - contribuições -->
+## :mailbox_with_mail: Contribuições 
+
+Dúvidas, sugestões e críticas podem ser direcionadas ao meu e-mail (duplat.f@gmail.com).
+
+
